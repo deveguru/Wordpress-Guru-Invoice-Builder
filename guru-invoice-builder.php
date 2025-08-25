@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Guru Invoice Builder
- * Plugin URI: https://github.com/ftepic
+ * Plugin URI: https://github.com/deveguru
  * Description: Professional invoice builder for Caspian Smart Security website
  * Version: 1.4.1
  * Author: Alireza Fatemi
